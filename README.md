@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Name](Hello(1).gif)
-![Name](Namevid.png)
-
-
- ### Profile Views :<br>
   ![](https://komarev.com/ghpvc/?username=suldaf&color=20A4F3&style=plastic&label=Viewed)
 
 

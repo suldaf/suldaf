@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+  ![](https://komarev.com/ghpvc/?username=suldaf&color=20A4F3&style=plastic&label=Viewed)
 
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
